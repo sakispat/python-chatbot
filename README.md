@@ -22,8 +22,8 @@ cd python-chatbot
 2. Create and activate virtual environment:
 ```bash
 python -m venv venv
-source env/bin/activate     # on macOS/Linux
-env\Scripts\activate        # Windows
+source venv/bin/activate     # on macOS/Linux
+venv\Scripts\activate        # Windows
 ```
 
 3. Install dependencies:
