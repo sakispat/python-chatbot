@@ -26,8 +26,9 @@ source venv/bin/activate     # on macOS/Linux
 venv\Scripts\activate        # Windows
 ```
 
-3. Install dependencies:
+3. Update and Install dependencies:
 ```bash
+python -m pip install --upgrade pip
 pip install -r requirements.txt
 ```
 
