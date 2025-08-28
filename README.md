@@ -15,7 +15,7 @@ A simple conversational chatbot built in Python using libraries like ChatterBot 
 ## Installation
 1. Clone the repo:
 ```bash
-git clone https://github.com/sakispat/python-chatbot.git
+git clone https://github.com/sakispat/python_chatbot.git
 cd python-chatbot
 ```
 
